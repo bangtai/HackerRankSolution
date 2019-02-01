@@ -1,2 +1,2 @@
 # HackerRankSolution
-# Coding practice for interview
+Coding practice for interview
