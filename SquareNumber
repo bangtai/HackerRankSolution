@@ -1,8 +1,9 @@
 import math
 
-a = 2
-b = 17
+a = 17
+b = 25
 
-count = math.sqrt(math.ceil(b)) - math.sqrt(math.floor(a)) + 1
+
+count = math.floor(math.sqrt(b)) - math.ceil(math.sqrt(a)) + 1
 
 print(int(count))
